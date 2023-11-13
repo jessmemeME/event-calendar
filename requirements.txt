@@ -1,6 +1,6 @@
 appdirs==1.4.4
 asgiref==3.3.2
-astroid==2.6.2
+astroid
 asttokens==2.0.5
 backports.entry-points-selectable==1.1.0
 black==21.7b0
@@ -51,4 +51,4 @@ tomlkit==0.12.1
 tzdata==2023.3
 urllib3==2.0.4
 virtualenv==20.24.4
-wrapt==1.15.0
+wrapt
